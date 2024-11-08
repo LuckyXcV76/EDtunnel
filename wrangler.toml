@@ -9,5 +9,5 @@ workers_dev = true
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
-PROXYIP = "101.50.0.114:8443"
+PROXYIP = "111.95.40.14:32414"
 UUID = "91f47920-7fd3-47dc-a62c-238738230382"
